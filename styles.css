@@ -1,0 +1,53 @@
+
+
+*{
+    font-family: Roboto;
+    line-height: 30px;
+    color: #272727;
+}
+
+navbar{
+    display: inline;
+}
+
+navbar a{
+    margin-right: 50px;
+    text-decoration-color: aqua;
+}
+
+navbar a:hover{
+    color: aqua;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: 900;
+}
+
+h2{
+    font-size: 25px;
+    font-weight: 900;
+}
+
+h1, h2, h3{
+    color: rgb(32, 175, 175);
+}
+
+fieldset {
+    border: 1px groove (internal value);
+    border-color: rgba(0, 255, 255, 0.493);
+  }
+
+.table{
+    border-color: aqua;
+    width: 100%;
+}
+
+.year{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#footer{
+    font-size: smaller;
+}
